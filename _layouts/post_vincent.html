@@ -1,0 +1,14 @@
+---
+layout: "wrapper"
+---
+
+{% for post in site.posts %}
+<li><a style="{% if post.url == page.url %} color:red {% endif %}" href="{{ post.url }}">{{ post.title }}</a></li>
+{%endfor%}
+
+
+    <h2>{{ page.title }}</h2>
+
+    <h4>par {{ page.author }}</h4>
+
+    {{ content }}

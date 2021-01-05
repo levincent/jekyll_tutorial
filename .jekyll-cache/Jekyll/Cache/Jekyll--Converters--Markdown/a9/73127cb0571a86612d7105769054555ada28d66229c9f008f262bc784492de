@@ -1,0 +1,104 @@
+I"�<p><a href="/assets/test/IMG_1423.JPG">mon essai de screenshot</a></p>
+
+<h3>liste des posts du site en cours</h3>
+
+<ul>
+
+<li>
+<a href="/2021/01/04/my-first-draft.html">my first draft avec un titre</a>
+</li>
+
+<li>
+<a href="/ma-belle-url/test/ca-fonctionne">Essai heureux numéro uno</a>
+</li>
+
+<li>
+<a href="/jekyll/super-public/2020/12/27/premiere-tentative.html">Première tentative</a>
+</li>
+
+</ul>
+
+<h3>liste des tags du site en cours:</h3>
+
+<ul>
+
+  <h4>superbes</h4>
+  <ul>
+    
+      <li><a href="/jekyll/super-public/2020/12/27/premiere-tentative.html">Première tentative</a></li>
+    
+  </ul>
+
+  <h4>vacances</h4>
+  <ul>
+    
+      <li><a href="/jekyll/super-public/2020/12/27/premiere-tentative.html">Première tentative</a></li>
+    
+  </ul>
+
+  <h4>superbes-vacances</h4>
+  <ul>
+    
+      <li><a href="/jekyll/super-public/2020/12/27/premiere-tentative.html">Première tentative</a></li>
+    
+  </ul>
+
+  <h4>very first one</h4>
+  <ul>
+    
+      <li><a href="/ma-belle-url/test/ca-fonctionne">Essai heureux numéro uno</a></li>
+    
+  </ul>
+
+</ul>
+
+<h3>liste des tags de la page en cours</h3>
+
+<li> superbes </li>
+
+<li> vacances </li>
+
+<li> superbes-vacances </li>
+
+<hr />
+
+<h3>Essai de data file </h3>
+
+<li>BNP Paribas SA: IT Project Manager
+
+
+
+<li>BNP Paribas SA: Project Manager &amp; BA
+
+
+
+<li>BNP Paribas SA: Program Manager
+
+
+
+<li>BNP Paribas Canada - IT Solutions: Program Manager &amp; Tean Leader
+
+
+
+<li>Desjardins: SAFe RTE &amp; Team Leader
+
+
+
+<hr />
+
+<h3>Tuto 18: static files </h3>
+
+
+
+<img src="/assets/img/9c796a0542363f479a183624ab68eb32.jpeg" alt="9c796a0542363f479a183624ab68eb32.jpeg" /> 
+
+
+
+<img src="/assets/img/profileIcon_bsfeq753za931.jpeg" alt="profileIcon_bsfeq753za931.jpeg" /> 
+
+
+
+
+
+</li></li></li></li></li>
+:ET

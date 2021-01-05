@@ -1,0 +1,12 @@
+{% include header.html %}
+<ul>
+
+    {% for post in site.posts %}
+
+    <li><a href="{{ post.url }}">{{ post.title }} / {{ post.date | date_to_long_string: "US" }} </a></li>
+
+    {% endfor %}
+
+{{ site.data.experiences }}
+
+</ul>
